@@ -1,4 +1,5 @@
 {
+    // stop opening .m files as obj-c
 	"extensions":
 	[
 	]
