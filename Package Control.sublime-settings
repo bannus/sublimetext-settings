@@ -1,0 +1,18 @@
+{
+	"auto_upgrade_last_run": 1350539605,
+	"installed_packages":
+	[
+		"Case Conversion",
+		"CompleteSharp",
+		"FileDiffs",
+		"Goto Documentation",
+		"HTML5",
+		"LaTeXTools",
+		"MarkdownBuild",
+		"Package Control",
+		"Print to HTML",
+		"SublimeTODO",
+		"Theme - Soda",
+		"WordCount"
+	]
+}
