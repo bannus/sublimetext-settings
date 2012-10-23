@@ -1,16 +1,47 @@
 {
-    "font_face": "Consolas", //"Inconsolata-g",
-    "font_size": 14.0,
-    "ignored_packages":
-    [
-        "Vintage"
-    ],
-    "open_files_in_new_window": false,
-    "rulers":
-    [
-        80
-    ],
-    "theme": "Soda Dark.sublime-theme",
-    "detect_slow_plugins": false,
-    "translate_tabs_to_spaces": true
+	"bold_folder_labels": true,
+	"detect_slow_plugins": false,
+	"file_exclude_patterns":
+	[
+		".DS_Store",
+		".tags*",
+		"*.pyc",
+		"*.pyo",
+		"*.exe",
+		"*.dll",
+		"*.obj",
+		"*.o",
+		"*.a",
+		"*.lib",
+		"*.log",
+		"*.so",
+		"*.dylib",
+		"*.ncb",
+		"*.sdf",
+		"*.suo",
+		"*.pdb",
+		"*.idb",
+		"*.class",
+		"*.psd",
+		"*.db",
+		"*.pdf",
+		"*.png",
+		"*.aux",
+		"*.synctex.gz",
+		"*.fdb_latexmk"
+	],
+	"font_face": "Consolas",
+	"font_size": 14.0,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"open_files_in_new_window": false,
+	"rulers":
+	[
+		80
+	],
+	"theme": "Soda Light.sublime-theme",
+	"translate_tabs_to_spaces": true
 }
